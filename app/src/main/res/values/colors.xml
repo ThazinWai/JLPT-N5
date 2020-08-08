@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#233345</color>
+    <color name="colorPrimaryDark">#192330</color>
+    <color name="colorAccent">#FDFBFB</color>
+
+    <color name="na">#2A3E53</color>
+    <color name="o">#42643B</color>
+    <color name="wa">#7293DD</color>
+    <color name="yu">#75D5E0</color>
+
+    <color name="numbers">#fc0303</color>
+    <color name="familyMember">#5afc03</color>
+    <color name="colors">#0356fc</color>
+    <color name="phrases">#03dbfc</color>
+
+
+</resources>
